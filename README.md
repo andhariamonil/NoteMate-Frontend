@@ -19,4 +19,4 @@ Ref: sample.env
 
 NoteMate-Frontend should be now up and running!
 
-NoteMate-Backend git repo : ```https://github.com/andhariamonil/NoteMate-Backend/tree/development```
+NoteMate-Backend git repo : ```https://github.com/andhariamonil/NoteMate-Backend```
